@@ -14,7 +14,7 @@ Based on the analysis, machine learning models typically outperform logistic reg
 - The code has been developed and used under `Python` 3.10.1
 
 ## Datasets
-![dataset2](https://github.com/user-attachments/assets/4a0171e8-86fa-4dc4-8072-628bc9312c6c)
+![dataset2](https://github.com/user-attachments/assets/99fd41e8-79fc-4afc-b230-f75c48fd8f06)
 
 For the dataset, [Jordà-Schularick-Taylor Macrohistory Database](https://www.macrohistory.net/database/) is used. It is published under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. I accessed Version 6 from the dataset's website. This version is contained in the `data` folder of this repository.
 

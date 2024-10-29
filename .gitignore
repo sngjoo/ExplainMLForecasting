@@ -1,0 +1,11 @@
+# ignore ide setting files
+.vscode/
+.venv/
+__pycache__/
+.pytest_cache/
+bot.egg-info/
+bot/__pycache__/
+bot/bot.egg-info/
+tests/__pycache__/
+*.code-workspace
+.gitattributes
